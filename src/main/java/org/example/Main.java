@@ -8,5 +8,8 @@ public class Main {
         System.out.println("endd");
         System.out.println("hello");
 
+
+         int q;
+        System.out.println("integer addeddddd");
     }
 }
